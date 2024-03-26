@@ -21,6 +21,7 @@ const Restaurants = () => {
     async function fetchData() {
       const restaurantsData = await getRestaurants();
 
+
       dispatch({ type: "LOADED_RESTAURANTS", payload: restaurantsData });
     }
     fetchData();

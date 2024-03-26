@@ -4,7 +4,9 @@ export const getRestaurants = async () => {
   const response = await fetch(`${API_ENDPOINT}/restaurants`);
   const restaurants = await response.json();
 
+  console.log(restaurants);
   return restaurants;
+  
 };
 
 export const addNewRestaurant = async (newName) => {
