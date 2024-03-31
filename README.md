@@ -2,10 +2,13 @@
 
 This is a private project to help build scalable Web Apps.
 
+- used to support the building of TradesMin
+
 
 
 
 <br> 
+
 
 
 
