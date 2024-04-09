@@ -3,6 +3,7 @@
 This is a private project to help build scalable Web Apps.
 
 - used to support the building of TradesMin
+<link>https://trades-min.netlify.app</link>
 
 
 
